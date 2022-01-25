@@ -105,4 +105,16 @@ body{
     float: right;
     margin-right: 15px;
 }
+.decima{
+    background-color: rgb(162, 250, 166);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.decima p{
+    background-color:rgb(250, 219, 4);
+    border: crimson solid 2px;
+    margin-right: 15px;
+    display: inline-block;
+}
 
