@@ -8,7 +8,7 @@ body{
 .container{
     width: 900px;
     margin: 0 auto;
-    height: 600px;
+    height: 900px;
     background-color: white;
     border: 2px double black;
 }
@@ -92,6 +92,7 @@ body{
     border: crimson solid 2px;
     float: right;
     margin-right: 15px;
+    width: 130px;
 }
 .novena{
     background-color: rgb(218, 178, 241);
@@ -104,6 +105,7 @@ body{
     border: crimson solid 2px;
     float: right;
     margin-right: 15px;
+    width: 130px;
 }
 .decima{
     background-color: rgb(162, 250, 166);
@@ -116,5 +118,58 @@ body{
     border: crimson solid 2px;
     margin-right: 15px;
     display: inline-block;
+    width: 130px;
 }
+.once{
+    background-color: rgb(162, 250, 166);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.once p{
+    background-color:rgb(250, 219, 4);
+    border: crimson solid 2px;
+    margin-right: 15px;
+    display: inline-block;
+    width: 130px;
+}
+.doce{
+    background-color: rgb(162, 250, 166);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.doce p{
+    background-color:rgb(250, 219, 4);
+    border: crimson solid 2px;
+    margin-right: 15px;
+    display: inline-block;
+    width: 130px;
+}
+.trece{
+    background-color: rgb(162, 250, 166);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.trece p{
+    background-color:rgb(250, 219, 4);
+    border: crimson solid 2px;
+    margin-right: 15px;
+    display: inline-block;
+    width: 130px;
+}
+.catorce{
+    background-color: rgb(101, 205, 170);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.catorce p{
+    background-color:white;
+    margin-left: 325px;
+    text-align: center;
+    width: 190px;
+}
+
 
