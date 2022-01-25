@@ -93,4 +93,16 @@ body{
     float: right;
     margin-right: 15px;
 }
+.novena{
+    background-color: rgb(218, 178, 241);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+}
+.novena p{
+    background-color:rgb(250, 219, 4);
+    border: crimson solid 2px;
+    float: right;
+    margin-right: 15px;
+}
 
