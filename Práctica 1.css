@@ -165,9 +165,6 @@ body{
     padding: 10px;
     height: 25px;
     margin: 2px;
-    
-    
-    
 }
 .catorce p{
     background-color:white;
@@ -176,6 +173,20 @@ body{
     vertical-align: center;
     text-align: center;
     margin-top: 2.5px;
+}
+.quince{
+    background-color: rgb(138, 225, 235);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+    align-items: center;
+}
+.quince p{
+    background-color:rgb(1, 255, 255);
+    border: black solid 2px;
+    display: inline-block;
+    text-align: center;
+    width: 180px;
 }
 
 
