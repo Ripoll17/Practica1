@@ -4,6 +4,7 @@
 }
 body{
     border: black 1px;
+    background-color: black;
 }
 .container{
     width: 900px;
@@ -164,12 +165,17 @@ body{
     padding: 10px;
     height: 25px;
     margin: 2px;
+    
+    
+    
 }
 .catorce p{
     background-color:white;
     margin-left: 325px;
-    text-align: center;
     width: 190px;
+    vertical-align: center;
+    text-align: center;
+    margin-top: 2.5px;
 }
 
 
