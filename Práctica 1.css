@@ -188,5 +188,33 @@ body{
     text-align: center;
     width: 180px;
 }
+.dieciseis{
+    background-color: rgb(138, 225, 235);
+    padding: 10px;
+    height: 25px;
+    margin: 2px;
+    align-items: center;
+}
+.dieciseis p{
+    background-color:rgb(1, 255, 255);
+    border: black solid 2px;
+    display: inline-block;
+    text-align: center;
+    width: 180px;
+}
+.diecisiete{
+    background-color: rgb(138, 225, 235);
+    height: 40px;
+    margin: 2px;
+    padding: 8px;
+}
+.diecisiete p{
+    background-color:rgb(185, 133, 11);
+    border: white solid 1px;
+    display: block;
+    width: 875px;
+    height: 15px;
+    margin-bottom: 4px;
+}
 
 
