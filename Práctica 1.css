@@ -9,9 +9,9 @@ body{
 .container{
     width: 900px;
     margin: 0 auto;
-    height: 900px;
+    height: 1000px;
     background-color: white;
-    border: 2px double black;
+    border: 5px double black;
 }
 .primeras{
     background-color: rgb(96, 157, 160);
@@ -203,7 +203,7 @@ body{
     width: 180px;
 }
 .diecisiete{
-    background-color: rgb(138, 225, 235);
+    background-color: rgb(94, 158, 160);
     height: 40px;
     margin: 2px;
     padding: 8px;
@@ -216,5 +216,55 @@ body{
     height: 15px;
     margin-bottom: 4px;
 }
+.dieciocho{
+    background-color: rgb(94, 158, 160);
+    height: 45px;
+    margin: 2px;
+    padding: 8px;
+    padding-top: 4px;
+}
+.dieciocho p{
+    background-color:rgb(185, 133, 11);
+    border: white solid 1px;
+    display: block;
+    width: 250px;
+    height: 15px;
+    margin-bottom: 4px;
+}
+.dieciochocaja{
+    background-color: rgb(25, 154, 211);
+    border: white solid 1px;
+    width: 257px;
+    height: 40px;
+    padding-bottom: 1.5px;
+    padding-top: 2.5px;
+    padding-left: 2.5px;
+}
+.diecinueve{
+    background-color: rgb(94, 158, 160);
+    height: 45px;
+    margin: 2px;
+    padding: 8px;
+    padding-top: 4px;
+}
+.diecinueve p{
+    background-color:rgb(185, 133, 11);
+    border: white solid 1px;
+    display: block;
+    width: 250px;
+    height: 15px;
+    margin-bottom: 4px;
+}
+.diecinuevecaja{
+    background-color: rgb(25, 154, 211);
+    border: white solid 1px;
+    width: 257px;
+    height: 40px;
+    padding-bottom: 1.5px;
+    padding-top: 2.5px;
+    padding-left: 2.5px;
+    float: right;
+}
+
 
 
